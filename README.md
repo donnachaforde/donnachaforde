@@ -1,4 +1,4 @@
-### Hi there! 👋 - I'm Donnacha.
+### Hi there! 👋 - I'm Donnacha. Welcome to my GitHub profile! 
 
 <!--
 **donnachaforde/donnachaforde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

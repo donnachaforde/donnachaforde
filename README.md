@@ -1,5 +1,7 @@
 ### Hi there! 👋 - I'm Donnacha. Welcome to my GitHub profile! 
 
+Perhaps the best place to start is at my GitHub.io page [here](https://donnachaforde.github.io) where I outline details on code examples, posts & blogs and my lecture contents.
+
 <!--
 **donnachaforde/donnachaforde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,6 +4,8 @@ Perhaps the best place to start is at my GitHub.io page [here](https://donnachaf
 
 If you're just checking out my profile, the best place is on [LinkedIn](https://www.linkedin.com/in/donnachaforde/).
 
+If you're checking out my code, then unfortunately, my best work is behind private repos and you'll just have to do with simple tools and example code... 😁
+
 <!--
 **donnachaforde/donnachaforde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,8 @@
-### Hi there! 👋 - I'm Donnacha. Welcome to my GitHub profile! 
+![image](./e5e6ef35-3ff1-407b-a73d-5d02b2fcc36d.png)
 
-Perhaps the best place to start is at my GitHub.io page [here](https://donnachaforde.github.io) where I outline details on code examples, posts & blogs and my lecture contents.
+### Welcome to my GitHub profile! 👋
+
+The best place to start is at my GitHub.io page [here](https://donnachaforde.github.io) where I outline details on code examples, posts & blogs and my lecture contents.
 
 If you're just checking out my profile, the best place is on [LinkedIn](https://www.linkedin.com/in/donnachaforde/).
 
@@ -20,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- SEO hints = technical leader, architect, strategist>

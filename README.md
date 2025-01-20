@@ -1,4 +1,4 @@
-![image](./e5e6ef35-3ff1-407b-a73d-5d02b2fcc36d.png)
+![image](./e5e6ef35-3ff1-407b-a73d-5d02b2fcc36d.PNG)
 
 ### Welcome to my GitHub profile! 👋
 

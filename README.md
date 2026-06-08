@@ -1,26 +1,17 @@
-![image](./e5e6ef35-3ff1-407b-a73d-5d02b2fcc36d.PNG)
+<!-- Add a speaking/presenting photo to this repo and update the path below -->
+![Donnacha Forde presenting](./[speaking-photo-filename])
 
-### Welcome to my GitHub profile! 👋
+### Donnacha Forde
 
-The best place to start is at my GitHub.io page [here](https://donnachaforde.github.io) where I outline details on code examples, posts & blogs and my lecture contents.
+Senior technical leader, architect, and strategist - 36 years building distributed systems, the last decade at the intersection of cybersecurity and engineering leadership.
 
-If you're just checking out my profile, the best place is on [LinkedIn](https://www.linkedin.com/in/donnachaforde/).
+**Focus areas:** Cybersecurity - Identity & Access Management - Distributed Systems - Endpoint Detection & Response - Secure Communications
 
-If you're checking out my code, then unfortunately, my best work is behind private repos and you'll just have to make do with some simple tools and example code... 😁
+I guest lecture on cybersecurity and software architecture, and have spoken at conference sessions on security engineering topics. The through-line is connecting distributed systems thinking to the practical realities of building secure, scalable software - drawing directly from architecture decisions made at commercial scale, at McAfee on EDR and MITRE ATT&CK, at CrowdStrike's Office of the CTO and currently at Cerby on Zero Trust connectivity.
 
-<!--
-**donnachaforde/donnachaforde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most production work lives in private repos - commercial and security constraints apply. What's public here is tooling, design patterns and examples that reflect how I approach engineering problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- SEO hints = technical leader, architect, strategist>
+**Start here:**
+- [donnachaforde.github.io](https://donnachaforde.github.io) - architectural writing, JVM performance deep-dive series, and MSc lecture content
+- [LinkedIn](https://www.linkedin.com/in/donnachaforde/) - full career track and contact
+- [espresso-tools](https://github.com/donnachaforde/espresso-tools) - a collection of useful CLI tools, built using the espresso library (C++)

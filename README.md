@@ -1,5 +1,4 @@
-<!-- Add a speaking/presenting photo to this repo and update the path below -->
-![Donnacha Forde presenting](./[speaking-photo-filename])
+![Donnacha Forde presenting at Lero Conference 2025](./lero-conference-2025.png)
 
 ### Donnacha Forde
 

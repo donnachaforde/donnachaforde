@@ -1,4 +1,4 @@
-![Donnacha Forde presenting at Lero Conference 2025](./lero-conference-2025.png)
+<p align="center"><img src="./lero-conference-2025.png" alt="Donnacha Forde presenting at Lero Conference 2025" /></p>
 
 ### Donnacha Forde
 
